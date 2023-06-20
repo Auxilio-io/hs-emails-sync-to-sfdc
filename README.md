@@ -1,7 +1,7 @@
 # hs-emails-sync-to-sfdc
 
 ## What is it?
-This coded files are intented to be used in a hubspot contact workflow within custom coded actions. They allow to create a task for each marketing email sended to a contact. You can then sync these tasks with Saleforce using the native integration between HS and SFDC. 
+This coded files are intented to be used in a hubspot contact workflow within custom coded actions. They allow to create a task for each marketing email sent to a contact. You can then sync these tasks with Saleforce using the native integration between HS and SFDC. 
 
 ## How it works:
 
