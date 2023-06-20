@@ -29,6 +29,7 @@ This coded files are intented to be used in a hubspot contact workflow within cu
 22. Copy/paste the content of the associate-task-with-contacts.js file in the code editor of your custom coded action
 23. Save your 3rd custom coded action
 24. Set your workflow to "on"
+25. OPTIONNAL you can copy outputs to properties if needed
 
 ## How the workflow should look:
-![HubSpot Workflow to sync Marketing Emails with Salesforce](/assets/images/base-octocat.svg)
+![HubSpot Workflow to sync Marketing Emails with Salesforce](/sync-marketing-emails-with-salesforce-task.png)
