@@ -1,4 +1,4 @@
-//use this in a contact workflow with the trigger "Last marketing email name is known" ans re-enrollment set to "ON"
+//use this in a contact workflow with the trigger "Last marketing email send date is known" ans re-enrollment set to "ON"
 
 const axios = require('axios')
 const accessToken = process.env.OPS_TOKEN
